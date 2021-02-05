@@ -48,8 +48,8 @@ https://cdn.hangzhou.com.cn/swiper-4.5.0/dist/js/swiper.min.js
 7.weixin share code
 ```
 <div style="display:none;">
-   		<div class="abstract">title</div>
-   		<img class="OutLInePics" src='image url link' alt="" />
+   <div class="abstract">title</div>
+   <img class="OutLInePics" src='image url link' alt="" />
 </div>
 <script src="https://www.hangzhou.com.cn/extra/js/WeixinApi.js"></script>  
 ```
